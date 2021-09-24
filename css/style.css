@@ -348,10 +348,11 @@ border-radius: 4px;
     position: absolute;
     top: -390px;
     right: -220px;
-    display: none;
     }
     footer{
-        margin-top: -55px;
-    height: 49px;
+        height: 49px;
+    }
+    .offer_tab p {
+        width: 100%;
     }
 }
