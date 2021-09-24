@@ -348,6 +348,7 @@ border-radius: 4px;
     position: absolute;
     top: -390px;
     right: -220px;
+    display: none;
     }
     footer{
         margin-top: -55px;
